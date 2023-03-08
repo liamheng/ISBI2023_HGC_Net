@@ -56,7 +56,7 @@ This work was supported in part by Basic and Applied Fundamental Research Founda
 If you find this work useful for your research, please cite our paper:
 
 ```
-@inproceedings{li2021self,
+@inproceedings{li2023self,
   title={Self-supervision Boosted Retinal Vessel Segmentation for Cross-domain Data},
   author={Li, Haojin and Li, Heng and Shu, Hai and Chen, Jianyu and Hu, Yan and Jiang, Liu},
   booktitle={2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)},
